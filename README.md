@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @muniif10
-- 👀 I’m interested in data scraping everything I can.
-- 🌱 I’m currently learning Computer Systems at UPM
-- 📫 How to reach me: Hit me up at (NO)
+## Me
+21 Years old, taking CS focusing on IoT, Embedded Systems, and AI.
 
-<!---
-muniif10/muniif10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Setup
+- [ ] Arch Linux or Archcraft (if lazy) and Windows 11
+- [ ] Vim and VSCode
+- [ ] A laptop
