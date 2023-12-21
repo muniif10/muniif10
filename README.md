@@ -1,5 +1,5 @@
 ## Me
-21 Years old, taking CS focusing on IoT, Embedded Systems, and AI.
+21 Years old, taking CS focusing on IoT, Embedded Systems, Web Development, and AI.
 
 ## Setup
 - [ ] Arch Linux or Archcraft (if lazy) and Windows 11
